@@ -1,0 +1,22 @@
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEADER STYLE STARTS */
+
+header h1{
+    padding: 20px 35px;
+    font-size: 16px;
+    color: purple;
+
+}
+
+header h1 a{
+    text-decoration: none;
+}
+
+.container {
+    margin-right: auto;
+  margin-left: auto;
+   
+}
