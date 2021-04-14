@@ -19,23 +19,30 @@
         <button type ="button"  id="start-btn">I Guess so</button>
     </div>
 
+    <input name="trackPage" class="hide" value=0 />
+
     <div class="quiz-container hide" id="quiz-section">
         <h3 id="queText">Why am I Doing This to Myself?</h3>
 
-        <button class="click" id="btn-1">Answer 1</button>
-        <button class="click" id="btn-2">Answer 2</button>
-        <button class="click" id="btn-3">Answer 3</button>
-        <button class="click" id="btn-4">Answer 4</button>
+        <button class="click" id="btn-0">Answer 1</button>
+        <button class="click" id="btn-1">Answer 2</button>
+        <button class="click" id="btn-2">Answer 3</button>
+        <button class="click" id="btn-3">Answer 4</button>
 
-        <div id="feedback">Correct</div>
+        <div id="feedback"></div>
     
     </div>
 
     
-    <div id="end-results" class=" quiz-container hide"></div>
+    <div id="end-results" class=" quiz-container hide">
         <h3>Can't Believe You Really Took This Quiz</h3>
         <div id="high-score"></div>
-        <input class="hide" type="text">
+        <form>
+        <label>Enter Initials</label>
+        <input id="initials" type="text">
+        <button id="submit">Submit</button>
+        </form>
+        <div id="leaderboard"></div>
     </div>
 
     
