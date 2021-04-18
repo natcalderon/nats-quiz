@@ -1,11 +1,10 @@
 # nats-quiz
 
 
+https://natcalderon.github.io/nats-quiz/
 
 What a doozy!! Sorry its late. Quiz Criteria:
 
-
- 
 
 GIVEN I am taking a code quiz <br>
 WHEN I click the start button<br>
