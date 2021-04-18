@@ -23,4 +23,3 @@ THEN I can save my initials and score<br>
 
 <img width="500" alt="Screen Shot 2021-04-18 at 4 45 33 PM" src="https://user-images.githubusercontent.com/33267456/115163283-8c3ed080-a065-11eb-805b-6822837fc9a1.png">
 
-<img width="500" alt="Screen Shot 2021-04-18 at 4 45 26 PM" src="(https://user-images.githubusercontent.com/33267456/115163285-8cd76700-a065-11eb-87f8-e07d4de78890.png">
