@@ -1,4 +1,3 @@
-// When start button is clicked
 var startPage = document.getElementById("start");
 var startBtn = document.getElementById("start-btn")
 var quizSection = document.getElementById("quiz-section");
